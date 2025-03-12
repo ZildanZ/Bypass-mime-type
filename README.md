@@ -1,5 +1,6 @@
 # How use #
-Usage:\n
+Usage:
+
   Embed PHP: python script.py embed image.jpg file.php output.jpg
   
   Extract PHP: python script.py extract image.jpg output.php
